@@ -1,3 +1,3 @@
 import pywhatkit
 
-pywhatkit.sendwhatmsg("+919265222512","Hello testing with python", 00,00)
+pywhatkit.sendwhatmsg("Mobile number","Hello testing with python", 00,00)
